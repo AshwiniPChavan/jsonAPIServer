@@ -1,0 +1,29 @@
+{
+  "streams": [
+    {
+      "name": "my streams",
+      "class": "test",
+      "id": 1
+    },
+    {
+      "name": "My Stream",
+      "class": "Hello Stream",
+      "id": 2
+    },
+    {
+      "name": "testing edited again",
+      "class": "testing stream",
+      "id": 3
+    },
+    {
+      "name": "abc",
+      "class": "abc",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "description": "a",
+      "id": 5
+    }
+  ]
+}
